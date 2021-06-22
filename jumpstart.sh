@@ -40,4 +40,4 @@ case $argument in
         ;;
 esac
 
-"$TOOLS/dmg2img" "$TOOLS/FetchMacOS/BaseSystem/BaseSystem.dmg" "$PWD/BaseSystem.img"
+"$TOOLS/dmg2img" "$PWD/BaseSystem.dmg" "$PWD/BaseSystem.img"
